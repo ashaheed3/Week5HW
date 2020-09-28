@@ -1,8 +1,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
+This calendar application allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+Uses the [Moment.js](https://momentjs.com/) library to work with date and time.
 
 ## User Story
 
@@ -36,7 +35,7 @@ The following animation demonstrates the application functionality:
 
 ### Deployed App
 
-https://ashaheed3.github.io/Week5HW/
+[https://ashaheed3.github.io/WorkDayScheduler/](https://ashaheed3.github.io/WorkDayScheduler/)
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
